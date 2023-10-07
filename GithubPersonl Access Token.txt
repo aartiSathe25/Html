@@ -1,4 +1,4 @@
-GIT ADD COMMANDS:-
+GIT ACCESS TOKEN WITH COMMANDS:-
 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
 
 git remote add origin https://github.com/aartiSathe25/Html.git
