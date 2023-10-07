@@ -1,0 +1,37 @@
+html{
+background-color: #F9F1F1;
+}
+body {
+  background-color: #FFCCCC;
+border:3px solid black;
+padding:5px;
+
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 150px;
+margin-left: 150px;
+}
+h,h4{
+ color: black;
+font-family: times new roman;
+  font-size: 100%;
+}
+p {
+  color: black;
+  padding: 10px;
+margin:5px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+font-size: 100%;
+margin:5px;
+border-color:#091750;
+  border-style: dashed;
+text-align: center;
+//border-radius:10px;
+}
+th, td {
+	  border-style: double;
+	  border-color:#091750;
+}

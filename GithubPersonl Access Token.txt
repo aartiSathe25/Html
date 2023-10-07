@@ -1,0 +1,36 @@
+ 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
+
+git remote add origin https://github.com/aartiSathe25/Html.git
+
+git remote add origin https://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@github.com/aartiSathe25/Html
+
+
+
+Shivaji Sathe@LAPTOP-4P8JGQJS MINGW64 /e/Html (main)
+$ git remote add origin https://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@github.com/aartiSathe25/Html
+
+Shivaji Sathe@LAPTOP-4P8JGQJS MINGW64 /e/Html (main)
+$ git push -u origin main
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 1.91 KiB | 653.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/aartiSathe25/Html
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Shivaji Sathe@LAPTOP-4P8JGQJS MINGW64 /e/Html (main)
+$ ls
+ ExternalCSS.html                  first.html   style.css
+'GithubPersonl Access Token.txt'   html2.html
+
+git init
+ls -al
+git status
+git add filename.extension
+git commit -m "description"
+****setup the git ie with credentials****
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
